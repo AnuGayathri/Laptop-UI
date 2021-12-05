@@ -1,2 +1,2 @@
 # Laptop-UI
-Responsive Website usin g HTML and CSS
+Responsive Website using HTML and CSS
